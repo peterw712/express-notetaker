@@ -1,19 +1,19 @@
-## Express Notetaker
+# Express Notetaker
 
-# Description
+## Description
 
 A simple notetaking app using Express to handle requests.
 
-# Technologies
+## Technologies
 
 Node JS
 Express JS
 
-# Screenshot
+## Screenshot
 
 ![screenshot](./express.png)
 
-# Deployed Application
+## Deployed Application
 
 https://gentle-cliffs-18184.herokuapp.com/
 
